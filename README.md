@@ -52,6 +52,7 @@ plt.imshow(wordcloud_positive, interpolation='bilinear')
 plt.axis("off")
 plt.title("WordCloud - Positive Reviews")
 plt.show()
+<img width="1024" height="534" alt="Screenshot 2025-12-01 123109" src="https://github.com/user-attachments/assets/c18ed24a-c792-4921-8dc6-34cd7dc7a5ed" />
 
 
 
