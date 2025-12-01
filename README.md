@@ -1,6 +1,6 @@
 **#Sentiment Analysis on Movie Reviews Using NLP**
 
-📝** Project Overview**:
+📝** **Project Overview****:
 Sentiment Analysis is a Natural Language Processing (NLP) technique used to determine the emotional tone behind text data.
 In this project, we analyze movie reviews and classify them as Positive or Negative using Logistic Regression along with TF-IDF vectorization.
 Additionally, we visualize frequent words using WordClouds.
